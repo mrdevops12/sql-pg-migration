@@ -2,7 +2,7 @@ Task: You need to share your experience of "how" you did the migration in the pa
 
 # sql-pg-migration
 
-Planning and Assessment
+Planning and Assessment:
    1. Assess the Current Environment:
       Identify Components: List all databases, schemas, tables, views, stored procedures, and functions in SQL Server.
       Evaluate Database: Examine schema, data, dependencies, and custom features that might need special handling during migration.
